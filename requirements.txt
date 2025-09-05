@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+chromadb
+langgraph
+pypdf
+python-dotenv
+sentence-transformers
+huggingface-hub
+google-generativeai
+pydantic
+tiktoken
+streamlit-extras
