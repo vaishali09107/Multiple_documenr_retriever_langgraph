@@ -1,0 +1,15 @@
+huggingface-hub
+pydantic
+streamlit-extras
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langgraph
+pydantic
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+tiktoken
